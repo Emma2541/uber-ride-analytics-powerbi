@@ -28,6 +28,3 @@ https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard
 
 ## 📈 Objective
 Demonstrate practical business intelligence skills by building a multi-page interactive dashboard that provides insights into ride operations, financial performance, service quality, and customer behavior.
-
-## 📷 Preview
-_(Optional: Add screenshots of your dashboard here)_
